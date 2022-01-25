@@ -1,4 +1,4 @@
-### Hi there 👋
+### KANISHK KAUSHAL
 
 <!--
 **Kanishk-Kaushal/Kanishk-Kaushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-// README.md
-![Github stats](https://github-readme-stats.vercel.app/api?username=Kanishk-Kaushal&theme=highcontrast&show_icons=true&count_private=true)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Kanishk-Kaushal&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishk-Kaushal&layout=compact)
